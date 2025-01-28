@@ -1,0 +1,30 @@
+2025-01-28 22:17:22,033 - INFO - Sending keys by locator ('id', 'q')
+2025-01-28 22:17:22,610 - INFO - Clicking an element with locator '('xpath', "//div[@class='search-box__search--2fC5']")'
+2025-01-28 22:17:26,434 - INFO - Searching for item: Fleece Jacket of Erke
+2025-01-28 22:17:26,564 - INFO - [<selenium.webdriver.remote.webelement.WebElement (session="a07a01d334d6a186531c340f2306304c", element="f.3AED7A7D0B5709BD64AEAA2DD5BD5B86.d.9355843498C125971B6222B2272E1FDE.e.113")>, <selenium.webdriver.remote.webelement.WebElement (session="a07a01d334d6a186531c340f2306304c", element="f.3AED7A7D0B5709BD64AEAA2DD5BD5B86.d.9355843498C125971B6222B2272E1FDE.e.114")>]
+2025-01-28 22:17:26,564 - INFO - Clicking an element with locator '('xpath', "//div[@data-qa-locator='product-item']//div[@class='aBrP0']//span[.='Rs. 9,265']//preceding::div[@class='RfADt']//a")'
+2025-01-28 22:17:30,300 - INFO - Product with name 'ERKE Fur Windproof Winter Warm Fleece Jacket All Black Green For Men 11223402325' and price 'Rs. 9,265' does not have rating of 4 or above
+2025-01-28 22:17:30,301 - INFO - Clicking an element with locator '('xpath', "//span[contains(text(),'Add to Cart')]")'
+2025-01-28 22:17:33,233 - INFO - Clicking an element with locator '('xpath', "//div[@data-qa-locator='product-item']//div[@class='aBrP0']//span[.='Rs. 6,740']//preceding::div[@class='RfADt']//a")'
+2025-01-28 22:17:33,309 - ERROR - An error occured in clickElement with locator ('xpath', "//div[@data-qa-locator='product-item']//div[@class='aBrP0']//span[.='Rs. 6,740']//preceding::div[@class='RfADt']//a")
+2025-01-28 22:17:33,746 - INFO - All driver quited.
+2025-01-28 22:20:22,629 - INFO - Sending keys by locator ('id', 'q')
+2025-01-28 22:20:22,943 - INFO - Clicking an element with locator '('xpath', "//div[@class='search-box__search--2fC5']")'
+2025-01-28 22:20:26,994 - INFO - Searching for item: Fleece Jacket of Erke
+2025-01-28 22:20:27,113 - INFO - Clicking an element with locator '('xpath', "//div[@data-qa-locator='product-item']//div[@class='aBrP0']//span[.='Rs. 9,265']//preceding::div[@class='RfADt']//a")'
+2025-01-28 22:20:42,045 - INFO - Product with name 'ERKE Fur Windproof Winter Warm Fleece Jacket All Black Green For Men 11223402325' and price 'Rs. 9,265' does not have rating of 4 or above
+2025-01-28 22:20:42,045 - INFO - Clicking an element with locator '('xpath', "//span[contains(text(),'Add to Cart')]")'
+2025-01-28 22:20:45,776 - INFO - Clicking an element with locator '('xpath', "//div[@data-qa-locator='product-item']//div[@class='aBrP0']//span[.='Rs. 6,740']//preceding::div[@class='RfADt']//a")'
+2025-01-28 22:20:49,833 - INFO - Product with name 'ERKE Winter Windbreaker Warm Fleece Jacket All Black For Men 11223404327-002' and price 'Rs. 6,740' does not have rating of 4 or above
+2025-01-28 22:20:49,833 - INFO - Clicking an element with locator '('xpath', "//span[contains(text(),'Add to Cart')]")'
+2025-01-28 22:20:57,023 - INFO - All driver quited.
+2025-01-28 22:21:13,060 - INFO - Sending keys by locator ('id', 'q')
+2025-01-28 22:21:18,315 - INFO - Clicking an element with locator '('xpath', "//div[@class='search-box__search--2fC5']")'
+2025-01-28 22:21:26,829 - INFO - Searching for item: Fleece Jacket of Erke
+2025-01-28 22:21:27,041 - INFO - Clicking an element with locator '('xpath', "//div[@data-qa-locator='product-item']//div[@class='aBrP0']//span[.='Rs. 9,265']//preceding::div[@class='RfADt']//a")'
+2025-01-28 22:21:33,838 - INFO - Product with name 'ERKE Fur Windproof Winter Warm Fleece Jacket All Black Green For Men 11223402325' and price 'Rs. 9,265' does not have rating of 4 or above
+2025-01-28 22:21:33,839 - INFO - Clicking an element with locator '('xpath', "//span[contains(text(),'Add to Cart')]")'
+2025-01-28 22:21:43,876 - INFO - Clicking an element with locator '('xpath', "//div[@data-qa-locator='product-item']//div[@class='aBrP0']//span[.='Rs. 6,740']//preceding::div[@class='RfADt']//a")'
+2025-01-28 22:21:50,539 - INFO - Product with name 'ERKE Winter Windbreaker Warm Fleece Jacket All Black For Men 11223404327-002' and price 'Rs. 6,740' does not have rating of 4 or above
+2025-01-28 22:21:50,540 - INFO - Clicking an element with locator '('xpath', "//span[contains(text(),'Add to Cart')]")'
+2025-01-28 22:22:00,968 - INFO - All driver quited.
